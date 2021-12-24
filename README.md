@@ -9,10 +9,8 @@ In our final project, we want to improve the ViT finetuning task perfromance or 
 Here is our experiment results on multi-task methods.
 
 <img src="https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/result.PNG" width=50% height=50%>
-![image](https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/origin.PNG)
-![image](https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/visualization.PNG)
-
-
+<img src="https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/origin.PNG" width=50% height=50%>
+<img src="https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/visualization.PNG" width=50% height=50%>
 
 ### Reference
 - [Vision Transformer](https://github.com/jeonsworld/ViT-pytorch)
