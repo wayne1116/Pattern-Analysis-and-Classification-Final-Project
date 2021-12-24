@@ -1,12 +1,12 @@
 # Pattern-Analysis-and-Classification-Final-Project
-## Objective
+### Objective
 In our final project, we want to improve the ViT finetuning task perfromance or the converge speed training from scratch. One method we propose is multi-task strategy.
 
-## Dataset
+### Dataset
 - Oxford-III-Pets
 
-## Experiments
+### Experiments
 
 
-## Reference
+### Reference
 - [Vision Transformer](https://github.com/jeonsworld/ViT-pytorch)
