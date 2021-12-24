@@ -9,7 +9,7 @@ In our final project, we want to improve the ViT finetuning task perfromance or 
 Here is our experiment results on multi-task methods.
 
 <img src="https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/result.PNG" width=50% height=50%>
-<img src="https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/origin.PNG" width=3% height=30%>
+<img src="https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/origin.PNG" width=30% height=30%>
 <img src="https://github.com/wayne1116/Pattern-Analysis-and-Classification-Final-Project/blob/main/visualization.PNG" width=50% height=50%>
 
 ### Reference
