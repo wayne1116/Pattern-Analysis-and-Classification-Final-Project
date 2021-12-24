@@ -4,7 +4,8 @@ In our final project, we want to improve the ViT finetuning task perfromance or 
 
 ### Dataset
 - Oxford-III-Pets
-  It is a pet dataset. There are totally 37 kind of dogs and cats in this dataset. Each pet has roughly 200 images. It also provides classification labels and bounding boxes with  pet facial contours 
+
+It is a pet dataset. There are totally 37 kind of dogs and cats in this dataset. Each pet has roughly 200 images. It also provides classification labels and bounding boxes with  pet facial contours 
 
 ### Experiments
 
